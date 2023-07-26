@@ -1,0 +1,17 @@
+{
+     "pages":{
+          "home":"home",
+          "dashboard": "dashboard",
+          "skins": "skins",
+          "advanced": "advanced",
+          "about": "about",
+          "privacy": "privacy",
+          "policy": "policy",
+          "goodbye": "goodbye"
+     },
+     "languages": "languages",
+     "profile": "profile",
+     "login":"login",
+     "logout":"logout",
+     "singup":"register"
+}
