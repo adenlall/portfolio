@@ -1,7 +1,7 @@
 import "@styles/index.css";
 
 import Hero from "@components/Hero";
-import Work from '@components/Works';
+import Works from '@components/Works';
 
 
 export const metadata = {
