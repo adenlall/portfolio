@@ -7,8 +7,8 @@ function Footer() {
                      adenlall <br/>Full-stack & GNOME developer. 
                    </p> 
                    <p>Copyright © 2023 - All right reserved</p>
-                   <p>This website is licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.html#license-text">GPL-v3.0</a></p>
-                   <p>Source code free available on <a href="https://github.com/adenlall/portfolio">Github Repo</a></p>
+                   <p>This website is licensed under <a className="text-green-200" href="https://www.gnu.org/licenses/gpl-3.0.html#license-text">GPL-v3.0</a></p>
+                   <p>Source code free available on <a className="text-green-200" href="https://github.com/adenlall/portfolio">Github Repo</a></p>
                  </div>
                  <div>
                    <div className="grid grid-flow-col gap-4">
