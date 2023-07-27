@@ -8,11 +8,12 @@ function Hero() {
                      className="h-full w-full object-cover"
                    />
                    <div className="absolute left-0 right-0 m-auto flex w-2/4 flex-col items-start justify-center gap-4 p-10 backdrop-blur-xl">
-                     <h2 className="text-2xl font-bold">First Section</h2>
+                     <h2 className="text-2xl font-bold">Who I'am ?</h2>
                      <p className="font-sans text-lg text-white">
-                       Lorem Ipsum is simply dummy text of the printing and typesetting
-                       industry. Lorem Ipsum has been the industry's standard dummy text ever
-                       since the 1500s,
+                       Welcome to my public portfolio, I'm aden, full-stack Javascript developer.
+                       I used to use React & Next (javascript) for front-end.
+                       for the back-end I'm mastering Laravel (php), and I can use Nextjs as full-stack also with expressjs.
+                       In addition to th web dev, I have a long experience with cross platform Desktop app with GTK toolkit.
                      </p>
                    </div>
                  </div>
