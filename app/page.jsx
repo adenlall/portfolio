@@ -28,8 +28,8 @@ export default function Page() {
                     description={"React application,  It's an app for salat (pray) time calculation for Muslims, and Quran reacer&reciter."}
                     link={"https://github.com/adenlall/salatok"}
                />
-               <Footer/>
           </div>
+          <Footer/>
     </>
   );
 }
