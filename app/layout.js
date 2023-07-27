@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         {children}
-        <footer>portfolio - adenlall - adenDev</footer>
+        <footer>portfolio - adenlall</footer>
       </body>
     </html>
   );
