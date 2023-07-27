@@ -8,7 +8,7 @@ export default function Page() {
   return (
     <>
           <Hero/>
-          <div className="w-full p-15 m-0 flex justify-center content-center justify-center">
+          <div className="w-full p-15 m-0 flex md:flex-col justify-center content-center justify-center space-x-15">
                <Works
                     image={"/150.jpg"}
                     title={"Salatok GTK4 Desktop Application"}
