@@ -3,7 +3,6 @@ function Footer() {
           <>
                <footer className="footer footer-center p-10 bg-[#f6d32d] text-black">
                  <div>
-                    //TODO:add svg icon
                    <p className="font-bold">
                      adenlall <br/>Full-stack & GNOME developer. 
                    </p> 

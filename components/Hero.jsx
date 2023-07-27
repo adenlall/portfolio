@@ -4,7 +4,7 @@ function Hero() {
                <div className="m-0 p-0">
                  <div className="flex h-screen w-screen items-center justify-center">
                    <img
-                     src="/images/170.jpg"
+                     src="/images/150.jpg"
                      className="h-full w-full object-cover"
                    />
                    <div className="absolute left-0 right-0 m-auto flex w-2/4 flex-col items-start justify-center gap-4 p-10 backdrop-blur-xl">
