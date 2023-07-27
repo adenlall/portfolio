@@ -2,6 +2,7 @@ import "@styles/index.css";
 
 import Hero from "@components/Hero";
 import Works from '@components/Works';
+import Footer from '@components/Footer';
 
 
 export default function Page() {
@@ -27,6 +28,7 @@ export default function Page() {
                     description={"React application,  It's an app for salat (pray) time calculation for Muslims, and Quran reacer&reciter."}
                     link={"https://github.com/adenlall/salatok"}
                />
+               <Footer/>
           </div>
     </>
   );
