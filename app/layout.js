@@ -12,9 +12,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <nav>AllAcc - navbar</nav>
         {children}
-        <footer>AllAcc - footer</footer>
+        <footer>portfolio - adenlall - adenDev</footer>
       </body>
     </html>
   );
