@@ -7,7 +7,7 @@ function Works(props) {
                    <h2 className="card-title">{props.title}</h2>
                    <p>{props.description}</p>
                    <div className="card-actions justify-end">
-                     <button className="btn btn-accent"><a href={props.link}>Github Page</a></button>
+                     <button className="btn btn-accent bg-green-300"><a href={props.link}>Github Page</a></button>
                    </div>
                  </div>
                </div>
