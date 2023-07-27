@@ -1,7 +1,7 @@
 function Works(props) {
     return (
           <>
-               <div className="card w-96 bg-base-100 shadow-xl image-full m-3 md:m-auto">
+               <div className="card w-96 bg-base-100 shadow-xl image-full md:m-3 m-auto">
                  <figure><img src={"/images/"+props.image} alt="Shoes" /></figure>
                  <div className="card-body">
                    <h2 className="card-title">{props.title}</h2>
