@@ -13,7 +13,7 @@ function Hero() {
                        Welcome to my public portfolio, I'm aden, full-stack Javascript developer.
                        I used to use React & Next (javascript) for front-end.
                        for the back-end I'm mastering Laravel (php), and I can use Nextjs as full-stack also with expressjs.
-                       In addition to th web dev, I have a long experience with cross platform Desktop app with GTK toolkit.
+                       In addition to the web dev, I have a long experience with cross platform Desktop app with GTK toolkit.
                      </p>
                    </div>
                  </div>
