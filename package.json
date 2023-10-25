@@ -13,7 +13,7 @@
     "bcrypt": "~5.1.0",
     "daisyui": "3.5.0",
     "mongodb": "~5.6.0",
-    "next": "13.4.4",
+    "next": "13.5.0",
     "next-auth": "~4.22.1",
     "ngoose": "~1.1.1",
     "postcss": "8.4.24",
